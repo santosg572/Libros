@@ -1,2 +1,9 @@
 /home/inb/santosg/Lluvia_nov1017
 
+$ fsl509
+$ fslview sub-140824_T1w.nii.gz
+
+FSLView 3.2.0
+
+$ ./convert_hdr.sh sub-140824_T1w.nii.gz
+
