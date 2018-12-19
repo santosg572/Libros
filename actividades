@@ -1,0 +1,6 @@
+octave
+https://medium.com/@manivannan_data/install-octave-on-ubuntu-16-04-d76f97e0d504
+
+sudo add-apt-repository ppa:octave/stable
+sudo apt-get update
+sudo apt-get install octave
