@@ -32,5 +32,20 @@ blacklist
 crafting
 feasible
 using handcoded rules to make decisions has two major disadvantages
-*
+* the logic required to make a decision is specific to a single domain and task. 
+   changing the task even slightly might require a rewrite of the whole system.
+* designing rures requires a deep understanding of how a decision should be made by hunan expert.
+
+will fail is in detecting faces in images
+
+
+until as recently as 2001
+
+to come up 
+
+for an algorithm to determine what characteristics are needed to identify a face
+
+>> problems machine learning can solve
+
+
 
