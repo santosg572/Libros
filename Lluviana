@@ -7,3 +7,8 @@ FSLView 3.2.0
 
 $ ./convert_hdr.sh sub-140824_T1w.nii.gz
 
+scrsz =
+
+           1           1        2560        1418
+           
+           
