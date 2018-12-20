@@ -4,58 +4,58 @@ machine learning is about extracting knowledge from data.
 it is`a research field at the intersection of statistics artificial intelligence, and computer science and is also known as predictive
 analytics or statistical learning.
 
-ubiquitous
-in everyday life
-automatic recommendations
-to what food to order
+ubiquitous - ubicuo
+in everyday life - en todos los días de la vida
+automatic recommendations - recomendaciones automáticas
+to what food to order - a que comida pedir
 machine learning algorithms
-core
+core - núcleo
 +
-outside
-understanding stars
-finding distant planets
+outside - fuera de
+understanding stars - entendiendo estrellas
+finding distant planets - encontrando planetas distantes
 discovering new particles
 analyzing dna sequences
 personalized cancer treatments
 +
-in order to benefit
-though
-along the way
+in order to benefit - para beneficiarse
+though - aunque
+along the way - en el camino
 
 >> why machine learning?
 
-in the early days
-adjust to user input
+in the early days - En dias tempranos
+adjust to user input - ajustar a la entrada del usuario
 spam filter
-you could make up
-blacklist 
-crafting
-feasible
-using handcoded rules to make decisions has two major disadvantages
+you could make up - podrías maquillarte
+blacklist - lista negra
+crafting - elaboración
+feasible - factible
+using handcoded rules to make decisions has two major disadvantages           usando reglas codificadas a mano
 * the logic required to make a decision is specific to a single domain and task. 
-   changing the task even slightly might require a rewrite of the whole system.
-* designing rures requires a deep understanding of how a decision should be made by hunan expert.
+   changing the task even slightly might require a rewrite of the whole system.     incluso ligeramente podría requerir
+* designing rules requires a deep understanding of how a decision should be made by hunan expert.
 
-will fail is in detecting faces in images
+will fail is in detecting faces in images - fallará es en detectar caras en imágenes
 
 
 until as recently as 2001
 
-to come up 
+to come up - para subir
 
 for an algorithm to determine what characteristics are needed to identify a face
 
 >> problems machine learning can solve
 
 - automate decision-makink processes by generalizing from know examples
-in this setting
+in this setting - en esta configuración
 - supervised learning
-it has never seen before
-going back
-as to whether
+it has never seen before - nunca ha visto antes
+going back - volver
+as to whether - en cuanto a si
 +
-are well understood
-will likely 
+are well understood - son bien entendidos
+will likely - probablemente
 
 >> examples of supervised machine learning tasks include
 
@@ -63,39 +63,39 @@ will likely
 - determining whether a tumor is benign based on a medical image
 - detecting fraudulent activity in credit card transactions
 
-look faily straightforward
-vastly different
-expensive
-rare and expensive expert knowledge
-privacy issues
-they will report fraud
+look faily straightforward - parezca falso directo
+vastly different - muy diferente
+expensive - costoso
+rare and expensive expert knowledge - Conocimiento experto raro y costoso
+privacy issues - problemas de privacidad
+they will report fraud - ellos reportaran fraude
 
 - unsupervised algorithms
 - in unsupervised learning, only the input data is known
 - they are usually harder to understand and evaluate
 
 - examples of unsupervised learning include
-1. identifying topics in a set of blog posts
+1. identifying topics in a set of blog posts    entradas de blog
 2. segmenting customers into groups with similar preferences
 3. detecting abnormal access patterns to a website
 
-they created an account
-they have boughht from your online shop
+they created an account - ellos crearon una cuenta
+they have boughht from your online shop - Han comprado en tu tienda online.
 
 - each entity or row here is know as a sample 
 - machine learning
 - while the columns - the properties that describe these entities - are called features
 
-we will go into more detail
+we will go into more detail - entraremos en más detalle
 
-you will have much better luck
+you will have much better luck - tendras mucho mejor suerte
 
 >> knowing your task and knowing your data
 
 - quite possibly the most important part in the machine learning process is understanding the data
 
-what is going on in your dataset
-setting it works best for
+what is going on in your dataset - what is going on in your dataset
+setting it works best for - configurarlo funciona mejor para
 
 >> the following questions:
 
@@ -107,40 +107,40 @@ setting it works best for
 6. how will the machine learning solutiion interact with other parts of my research or business product?
 
 - machine learning
-at all times
-when going deep into
-it is easy to lose sight of the ultimate goals
-we still encourage
+at all times - en todo momento
+when going deep into - cuando profundizamos en
+it is easy to lose sight of the ultimate goals - Es fácil perder de vista los objetivos finales.
+we still encourage - todavía alentamos
 
 >> why python?
 
 - jupyther notebook
 
-look at shortly
+look at shortly - mira en breve
 
 - in which the data drives the analysis
 
-iteration
-interaction
+iteration - iteración
+interaction - Interacción
 
 - creation of complex graphical user interfaces (guis) and web services
 
 >> scikit-learn
 
-to see what is going on behind
+to see what is going on behind - para ver que esta pasando detras
 
 - it contains a number of state-of-the-art machine learning algorithms
 
-comprehensive
+comprehensive - comprehensive
 
 scikit-learn.org/stable/documentation
 
-wealth
-snippets
+wealth - riqueza
+snippets - fragmentos
 
 scikit-learn.org/stable/user_guide.html
 
-thorough
+thorough - completo(
 
 >> installing scikit-learn
 
@@ -158,8 +158,8 @@ scientific computing
 
 >> esential libraries and tools
 
-that will enhance 
-is built on top
+that will enhance - que mejorará
+is built on top - está construido en la parte superior
 
 >> jupyther notebook
 
@@ -218,12 +218,12 @@ plt.plot(x, y, marker="x")
 
 >> pandas
 
-wrangling
+wrangling - disputa
 - dataframe
 - sql - like queries
 - joins of tables
 
-to ingest
+to ingest - ingerir
 
 - creating a dataframe using a dictionary
 
