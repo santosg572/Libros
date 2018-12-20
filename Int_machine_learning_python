@@ -47,5 +47,48 @@ for an algorithm to determine what characteristics are needed to identify a face
 
 >> problems machine learning can solve
 
+- automate decision-makink processes by generalizing from know examples
+in this setting
+- supervised learning
+it has never seen before
+going back
+as to whether
++
+are well understood
+will likely 
+
+>> examples of supervised machine learning tasks include
+
+- identifying the zip code from handwritten digits on an evelope
+- determining whether a tumor is benign based on a medical image
+- detecting fraudulent activity in credit card transactions
+
+look faily straightforward
+vastly different
+expensive
+rare and expensive expert knowledge
+privacy issues
+they will report fraud
+
+- unsupervised algorithms
+- in unsupervised learning, only the input data is known
+- they are usually harder to understand and evaluate
+
+- examples of unsupervised learning include
+1. identifying topics in a set of blog posts
+2. segmenting customers into groups with similar preferences
+3. detecting abnormal access patterns to a website
+
+they created an account
+they have boughht from your online shop
+
+- each entity or row here is know as a sample 
+- machine learning
+- while the columns - the properties that describe these entities - are called features
+
+we will go into more detail
+
+you will have much better luck
+
 
 
