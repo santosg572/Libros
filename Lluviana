@@ -10,5 +10,11 @@ $ ./convert_hdr.sh sub-140824_T1w.nii.gz
 scrsz =
 
            1           1        2560        1418
-           
-           
+ 
+ =======================
+ dic2018
+ 
+ '/home/inb/santosg/Lluvia_nov1017'
+
+- el programa que voy a utilizar para segmentar es p22.m
+- 
