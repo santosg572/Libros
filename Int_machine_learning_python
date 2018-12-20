@@ -158,5 +158,34 @@ scientific computing
 
 >> esential libraries and tools
 
+that will enhance 
+is built on top
 
+>> jupyther notebook
+
+- is an iteractive environment for running code in the browser.
+- the jupyther notebook makes it easy to incorporate code, text, and images
+
+github.com/amueller/introduction_to_ml_with_python
+
+>> numpy
+
+- it contains functionality for multidimensional arras
+- high-level mathematical functions 
+- the core functionality of numpy is the ndarray class
+- all elements of the array must be of the same type
+
+import numpy as np
+x = np.array([[1, 2, 3], [4, 5, 6]])
+print("x:\n{}".format(x))
+
+>> scipy
+
+- advanced linear algebra routines, mathematical function optimization, signal processing, special mathematical functions, statistical distributions
+- scipy.sparse
+
+mostly zeros
+
+from scipy import sparse
+eye = np.eye
 
