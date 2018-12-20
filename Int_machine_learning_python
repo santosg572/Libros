@@ -90,5 +90,73 @@ we will go into more detail
 
 you will have much better luck
 
+>> knowing your task and knowing your data
+
+- quite possibly the most important part in the machine learning process is understanding the data
+
+what is going on in your dataset
+setting it works best for
+
+>> the following questions:
+
+1. what question(s) am i trying to answer? do i think the data colected can answer that question?
+2. what is the best way to phrase my question(s) as a machine learning problem?
+3. have i colected enough data to represent the problem i want to solve?
+4. what features of the data did i extract, and will these enable the right predictions?
+5. how will measure success in my application?
+6. how will the machine learning solutiion interact with other parts of my research or business product?
+
+- machine learning
+at all times
+when going deep into
+it is easy to lose sight of the ultimate goals
+we still encourage
+
+>> why python?
+
+- jupyther notebook
+
+look at shortly
+
+- in which the data drives the analysis
+
+iteration
+interaction
+
+- creation of complex graphical user interfaces (guis) and web services
+
+>> scikit-learn
+
+to see what is going on behind
+
+- it contains a number of state-of-the-art machine learning algorithms
+
+comprehensive
+
+scikit-learn.org/stable/documentation
+
+wealth
+snippets
+
+scikit-learn.org/stable/user_guide.html
+
+thorough
+
+>> installing scikit-learn
+
+- numpy, scipy, matplotlib, ipython, jupyter notebook
+
+>> anaconda (store.continuum.io/anaconda)
+
+predictive analytics
+scientific computing
+
+1.  anaconda comes with numpy, scipy, matplotlib, pandas, ipython, jupytherr notebook, and scikit-learn
+- inter mkl library
+2.  enthought canopy
+3. python
+
+>> esential libraries and tools
+
 
 
