@@ -239,7 +239,94 @@ data = {'Name':["john", "Anna", "Peter", "Linda"],
  
  to query
  
- display(data_pandas.Age 
+ display(data_pandas[data_pandas.Age > 30])
+ 
+ >> mglearn
+ 
+ seftware: gitub.com/amueller/introduction_to_ml_with_python
+ 
+ - mglearn library
+ 
+ clutter up
+ pretty pictre
+ to get our hands in the right place to worry about it
+ 
+ import numpy as np
+ import maplotlib.pyplot as plt
+ import pandas as pd
+ import mglearn
+ from IPython.display import display
+ 
+ - jupyther notebook
+ - %matplotlib notebook or %matplotlib inline o plt.show
+ 
+ >> python 2 versus python 3
+ sometimes
+ is no longer actively
+ it is for the most part quite 
+ 
+ >> versions used in this book
+ 
+ >> a first application: classifying iris species
+ 
+ we will go through 
+ core
+ hobby botanist
+ iris
+ sepals
+ setosa
+ versicolor
+ virginica
+ she can be certain 
+ will encounter in the wild
+ - spervised learning problem
+ - classification problem
+ - classes
+ - label
+ 
+ >> meet the data
+ 
+ - scikit-learn in the datasets module
+ 
+ from sklearn.datasets import load_iris
+ iris_dataset = load_iris()
+ 
+ - dictionary
+ 
+ print("keys of iris_dataset: \n{}".format{iris_dataset.keys()))
+ 
+ print(iris_dataset['DESCR'][:193] + "\n...")
+ 
+ print("target names: {}".format(iris_dataset['target_names']))
+ 
+ print("feature names: \n{}".format(iris_dataset['feature_names']))
+ 
+ print("type of data:{}".format(type(iris_dataset['data'])))
+ 
+ print("shape od data: {}".format(iris_dataset['data'].shape))
+ 
+ print("first five columns of data:\n{}".format(iris_dataset['data'][:5]))
+ 
+ print("type of target: {}".format(type(iris_dataset['target'])))
+ 
+ print("shape of target: {}".format(iris_dataset['target'].shape))
+ 
+ print("target:\n{}".format(iris_dataset['target']))
+ 
+ >> measuring success: training and testing data
+ 
+ whether we should trust its predictions
+ 
+ can always simply remember the whole training set
+ 
+ - training data
+ -test data
+ 
+ shuffles
+ - train_test_split function
+ thumb
+ 
+ from skelearn
 
 
 
