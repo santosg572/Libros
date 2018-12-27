@@ -380,7 +380,34 @@ data = {'Name':["john", "Anna", "Peter", "Linda"],
    
    this single flower
    
-   p22
+   - predict method
+   
+   prediction = knn.predict(X_new)
+   print("Prediction: {}".format(prediction))
+   print("Predicted target name: {}".format(
+      iris_dataset['target_names'][prediction]))
+      
+   >> Evaluating the Model
+   
+   come in
+   - accuracy
+   
+   y_pred = knn.predict(X_test)
+   print("test set predictions:\n {}".format(y_pred))
+   
+   print("test set score: {:.2f}".format(np.mean(y_pred == y_test)))
+   
+   - score method
+   
+   print("test set score: {:.2f}".format(knn.score(X_test, y_test)))
+   
+   may be trustworthy enough to use
+   
+   caveats
+   
+   >> summary and outlook
+   
+   
 
 
 
