@@ -85,5 +85,95 @@ as long as
 of breast
 harmless
 
+>> k-nearst neighbors
+
+is arguably
+
+>> k-neighbors classification
+
+>> analyzing kneighborsclassifier
+
+- decision boundary
+breast
+are rarely very smooth
+fewer
+flipped
+drops
+is lower
+is even worse
+is somewhere in the middle
+
+>> k-neighbors regression
+
+the single nearest neighbor
+- KNeighbors Regressor class 
+- score method
+is a measure of goodness
+
+>> analyzing kneighborsregressor
+
+the predictions look like
+a very unsteady prediction
+
+>> strengths, weaknesses, and parameters
+
+you should cetainly adjust this parameter
+
+is somewhat
+the strengths
+without a lot adjustments
+hundreads
+badly
+has neither
+
+>> linear models
+
+the last few decades
+with roots going back over a hundred years
+- linear function
+
+>> linear models for regression
+
+seems very restrictive
+lost
+a somewhat skewed perspective
+can be very powwerful
+
+>> linear regression (aka ordinary least squares)
+
+-mean squared error
+a benefit
+but it also has no way
+- coefficients
+are likely underfitting
+restricted
+is a higher chance of overfitting
+is much worse
+- ridge regression
+we will look into next
+
+>> ridge regression
+
+though
+are chosen not only so that they predict
+an additional constraint
+to be as small as possible
+while still predicting well
+-regularization
+so we are less likely to overfit
+worse performance
+trade-off
+how much importance
+through
+to be less restricted
+are barely restricted at all
+and we end up 
+we can also get a more qualitative insight
+a more restricted model
+the main takeway here
+are mostly
+are somewhat larger
+are so large
+54
 
 
