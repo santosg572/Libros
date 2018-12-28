@@ -33,6 +33,7 @@ if we allow ourselves -si nos permitimos
 we can always be as accurate - siempre podemos ser tan precisos
 say a novice data scientist wants to predict boat - decir un científico novato de datos quiere predecir barco
 a while -Un rato
+but not bother those customers who won't be interested - Pero no molestes a los clientes que no estarán interesados.
 come up - sube
 boat - bote
 of his does - de su hace
@@ -41,3 +42,48 @@ age - años
 twice - dos veces
 customers - clientes
 achieving - logrando
+we could come up with that would explain - podríamos llegar a eso explicaría
+the rule hinges - la regla depende de
++
+we would trust - confiaríamos
+- overfitting
+
+too closely - demasiado cerca
+everybody who owns - todo el mundo que posee
+and your model will do badly even on the training set - y a tu modelo le irá mal incluso en el set de entrenamiento.
+- uderfitting
+
+there is a sweet spot in between - hay un punto dulce en el medio
+
+sweet spot - punto justo
+
+>> relation of model complexity to dataset size
+
+is intimately tied - está íntimamente ligado
+you can use without overfitting - Se puede usar sin sobre ajuste.
+so larger - tan grande
++
+can often work wonders - a menudo puede hacer maravillas
+
+>> supervised machine learning algorithms
+
+- model complexity
+out for - Fuera por
+the strengths and weaknesses - las fortalezas y debilidades
+a better feeling - un sentimiento mejor
+
+>> some sample datasets
+
+highlight - destacar
+- forge dataset
+codigo 32
+- wave dataset
+codigo 33
+migth not hold
+as long as
++
+of breast
+harmless
+
+
+
