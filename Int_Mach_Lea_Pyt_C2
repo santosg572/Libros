@@ -3,26 +3,26 @@ c2 supervisev learning
 
 - supervised machine learning
 - mechine learning
-whenever
+whenever - cuando
 -training set
-but afterward automates
-otherwise
-infeasible task
+but afterward automates - pero luego se automatiza
+otherwise - de otra manera
+infeasible task - tarea no factible
 
 >> classification and regression
 
-there are two major types
+there are two major types - hay dos tipos principales
 -classification and regression
 - in classification, the goal is to predict a class label
-benefit
-is in from the text
+benefit - beneficio
+is in from the text - está dentro del texto
 
 -for regression tasks, the goal is to predict a continuous number
-annual income
-a corn farm 
-weather
-even though
-there is no matter of degree
+annual income - ingresos anuales
+a corn farm - una granja de maíz
+weather - clima
+even though - aunque
+there is no matter of degree - no hay asunto de grado
 
 >> generalization, overfitting, and uderfitting
 
@@ -79,10 +79,10 @@ highlight - destacar
 codigo 32
 - wave dataset
 codigo 33
-migth not hold
-as long as
+migth not hold - podría no sostener
+as long as - Mientras
 +
-of breast
+of breast - de pecho
 harmless
 
 >> k-nearst neighbors
